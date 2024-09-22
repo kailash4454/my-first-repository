@@ -1,2 +1,2 @@
-# my-first-repository "minor change"
+# my-first-repository 
 practice account for learning git
